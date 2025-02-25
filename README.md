@@ -4,7 +4,21 @@ I wanted to get some experience with this kind of things (Reinforcement Learning
 
 ## Getting it to run
 
-First, install the dependencies
+First, create a venv:
+```bash
+python3 -m venv venv
+```
+
+and activate it:
+```bash
+# bash
+source ./venv/bin/activate
+
+# fish
+source ./venv/bin/activate.fish
+```
+
+Then install the dependencies:
 ```bash
 python3 -m pip install -r ./requirements
 ```
