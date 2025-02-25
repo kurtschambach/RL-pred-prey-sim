@@ -1,3 +1,2 @@
 /venv
-/runs/predator-prey-simulation/**
-runs/predator-prey-simulation/**/*.tfevents.*
+/runs
