@@ -35,7 +35,7 @@ Now just run the `main.py` file.
 Currently, you'll have to change the `RUN_TITLE` variable
 every run, otherwise TensorBoard will only show the latest run.
 
-# Monitoring
+## Monitoring
 
 You can use the Matplotlib graph for some quick stats,
 although TensorBoard is probably better, 
