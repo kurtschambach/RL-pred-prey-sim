@@ -2,6 +2,8 @@
 
 I wanted to get some experience with this kind of things (Reinforcement Learning), so here we are.
 
+![](images/pred-prey-sim.png)
+
 ## Getting it to run
 
 First, create a venv:
