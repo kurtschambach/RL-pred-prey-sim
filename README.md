@@ -14,8 +14,7 @@ Now just run the `main.py` file.
 > [!NOTE]
 > To speed the simulation and training process up, 
 > or slow it down, use the arrow keys.
-
-> [!NOTE]
+> 
 > You can also stop the simulation using the space bar 
 > for even faster training
 
